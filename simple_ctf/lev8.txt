@@ -1,0 +1,3 @@
+UsvVyFSfZZWbi6wgC7dAFyFuR6jQQUhR
+solution : 
+cat data.txt | sort | uniq -u

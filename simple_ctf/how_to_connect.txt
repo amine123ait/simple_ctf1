@@ -1,0 +1,5 @@
+site : https://overthewire.org/wargames/bandit
+ssh bandit[ 0==>34 ]@bandit.labs.overthewire.org -p 2220
+[] dont wright it   
+and the first password is : bandit0
+and the other u should find it 
